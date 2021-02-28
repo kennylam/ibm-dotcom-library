@@ -37,7 +37,7 @@ const getBaseKnobs = ({ groupId }) => {
 };
 
 export default {
-  title: 'Components|CardLink',
+  title: 'Components/CardLink',
 
   parameters: {
     ...readme.parameters,

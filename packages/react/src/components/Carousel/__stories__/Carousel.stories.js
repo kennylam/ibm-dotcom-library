@@ -9,7 +9,7 @@ import React from 'react';
 import readme from '../README.stories.mdx';
 
 export default {
-  title: 'Components|Carousel',
+  title: 'Components/Carousel',
 
   parameters: {
     ...readme.parameters,

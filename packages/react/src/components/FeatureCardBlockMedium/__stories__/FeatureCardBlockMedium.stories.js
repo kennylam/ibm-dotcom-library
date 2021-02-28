@@ -13,7 +13,7 @@ import readme from '../README.stories.mdx';
 import { text } from '@storybook/addon-knobs';
 
 export default {
-  title: 'Components|FeatureCardBlockMedium',
+  title: 'Components/FeatureCardBlockMedium',
 
   parameters: {
     ...readme.parameters,

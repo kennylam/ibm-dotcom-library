@@ -92,7 +92,7 @@ const getBaseKnobs = ({ groupId }) => {
 };
 
 export default {
-  title: 'Components|ContentBlockSimple',
+  title: 'Components/ContentBlockSimple',
 
   parameters: {
     ...readme.parameters,

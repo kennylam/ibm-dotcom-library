@@ -12,7 +12,7 @@ import readme from '../README.stories.mdx';
 import { text } from '@storybook/addon-knobs';
 
 export default {
-  title: 'Components|ContentGroupHorizontal',
+  title: 'Components/ContentGroupHorizontal',
 
   parameters: {
     ...readme.parameters,

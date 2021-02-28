@@ -12,7 +12,7 @@ import readme from '../README.stories.mdx';
 import { text } from '@storybook/addon-knobs';
 
 export default {
-  title: 'Components|CardSectionImages',
+  title: 'Components/CardSectionImages',
 
   parameters: {
     ...readme.parameters,

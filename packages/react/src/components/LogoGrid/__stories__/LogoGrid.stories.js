@@ -60,7 +60,7 @@ const logos = [
 ];
 
 export default {
-  title: 'Components|LogoGrid',
+  title: 'Components/LogoGrid',
   parameters: {
     ['carbon-theme']: { disabled: true },
     ...readme.parameters,

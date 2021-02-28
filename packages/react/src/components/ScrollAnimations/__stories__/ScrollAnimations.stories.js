@@ -34,7 +34,7 @@ const selectorTargets = `
 `;
 
 export default {
-  title: 'Components|Scroll Animations',
+  title: 'Components/Scroll Animations',
 
   parameters: {
     ...readme.parameters,

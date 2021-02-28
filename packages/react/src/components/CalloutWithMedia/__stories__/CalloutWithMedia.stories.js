@@ -42,7 +42,7 @@ const mediaDataByType = {
 };
 
 export default {
-  title: 'Components|CalloutWithMedia',
+  title: 'Components/CalloutWithMedia',
 
   parameters: {
     ...readme.parameters,

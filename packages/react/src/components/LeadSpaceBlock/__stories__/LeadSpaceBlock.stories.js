@@ -67,7 +67,7 @@ const defaultItems = [
 ];
 
 export default {
-  title: 'Components|LeadSpaceBlock',
+  title: 'Components/LeadSpaceBlock',
   parameters: {
     ...readme.parameters,
     knobs: {

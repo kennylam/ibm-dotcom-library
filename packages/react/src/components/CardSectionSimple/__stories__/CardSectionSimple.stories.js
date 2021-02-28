@@ -28,7 +28,7 @@ const getBaseKnobs = ({ groupId }) => {
 };
 
 export default {
-  title: 'Components|CardSectionSimple',
+  title: 'Components/CardSectionSimple',
 
   parameters: {
     ...readme.parameters,

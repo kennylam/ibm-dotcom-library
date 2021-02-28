@@ -17,7 +17,7 @@ import { text } from '@storybook/addon-knobs';
 const { prefix } = settings;
 
 export default {
-  title: 'Components|Image',
+  title: 'Components/Image',
 
   parameters: {
     ...readme.parameters,

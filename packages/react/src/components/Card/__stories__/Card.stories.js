@@ -15,7 +15,7 @@ import React from 'react';
 import readme from '../README.stories.mdx';
 
 export default {
-  title: 'Components|Card',
+  title: 'Components/Card',
 
   parameters: {
     ...readme.parameters,

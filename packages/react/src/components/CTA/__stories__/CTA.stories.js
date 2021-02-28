@@ -143,7 +143,7 @@ const wrapper = (CTA, style, type) => {
 };
 
 export default {
-  title: 'Components|CTA',
+  title: 'Components/CTA',
 
   parameters: {
     ...readme.parameters,
