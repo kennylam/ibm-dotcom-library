@@ -6891,26 +6891,6 @@
     regenerator-runtime "^0.13.3"
     util-deprecate "^1.0.2"
 
-"@storybook/addon-storysource@^6.1.20":
-  version "6.1.20"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-storysource/-/addon-storysource-6.1.20.tgz#72898b863ec7e11cbe82eb5f740a61530f8439b1"
-  integrity sha512-MT9ROmjM+WNmzJJrDP52WzJy6DdJHqTCFUaJ5cmUdodmWrwMFTx/MaD53blTU5xjsPQS2pnfEHDDAYESjgJ4bg==
-  dependencies:
-    "@storybook/addons" "6.1.20"
-    "@storybook/api" "6.1.20"
-    "@storybook/client-logger" "6.1.20"
-    "@storybook/components" "6.1.20"
-    "@storybook/router" "6.1.20"
-    "@storybook/source-loader" "6.1.20"
-    "@storybook/theming" "6.1.20"
-    core-js "^3.0.1"
-    estraverse "^4.2.0"
-    loader-utils "^2.0.0"
-    prettier "~2.0.5"
-    prop-types "^15.7.2"
-    react-syntax-highlighter "^13.5.0"
-    regenerator-runtime "^0.13.7"
-
 "@storybook/addons@5.3.19", "@storybook/addons@^5.3.0":
   version "5.3.19"
   resolved "https://registry.yarnpkg.com/@storybook/addons/-/addons-5.3.19.tgz#3a7010697afd6df9a41b8c8a7351d9a06ff490a4"

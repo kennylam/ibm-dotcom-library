@@ -14,7 +14,7 @@ module.exports = {
   addons: [
     '@storybook/addon-docs',
     '@storybook/addon-knobs/register',
-    '@storybook/addon-storysource/register',
+    '@storybook/source-loader',
     '@storybook/addon-links/register',
     '@storybook/addon-options/register',
     '@carbon/storybook-addon-theme/es/register',
